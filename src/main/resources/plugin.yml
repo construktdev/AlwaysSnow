@@ -1,0 +1,4 @@
+name: AlwaysSnow
+version: '1.0-SNAPSHOT'
+main: dev.construkter.alwaysSnow.AlwaysSnow
+api-version: '1.21'
