@@ -70,7 +70,28 @@ public class AlwaysSnow extends JavaPlugin {
             Material.DIORITE_WALL,
             Material.ANDESITE_WALL,
             Material.GRANITE_WALL,
-            Material.SCAFFOLDING
+            Material.SCAFFOLDING,
+            Material.ACACIA_SIGN,
+            Material.BIRCH_SIGN,
+            Material.DARK_OAK_SIGN,
+            Material.JUNGLE_SIGN,
+            Material.OAK_SIGN,
+            Material.SPRUCE_SIGN,
+            Material.CRIMSON_SIGN,
+            Material.WARPED_SIGN,
+            Material.ACACIA_HANGING_SIGN,
+            Material.BIRCH_HANGING_SIGN,
+            Material.DARK_OAK_HANGING_SIGN,
+            Material.JUNGLE_HANGING_SIGN,
+            Material.OAK_HANGING_SIGN,
+            Material.SPRUCE_HANGING_SIGN,
+            Material.CRIMSON_HANGING_SIGN,
+            Material.WARPED_HANGING_SIGN,
+            Material.TORCH,
+            Material.SOUL_TORCH,
+            Material.WALL_TORCH,
+            Material.CAMPFIRE,
+            Material.SOUL_CAMPFIRE
     );
 
     @Override
